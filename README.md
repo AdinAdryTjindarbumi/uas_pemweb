@@ -2,6 +2,8 @@
 
 Aplikasi ini adalah sistem manajemen untuk toko mebel, yang mencakup pengelolaan data karyawan dan inventory. Aplikasi ini dibangun menggunakan PHP dan JavaScript, dengan data yang disimpan di dalam database MySQL. Di sini, kami menggunakan berbagai teknik pengelolaan state, pengelolaan session, dan manipulasi DOM pada sisi klien.
 
+https://toko-mebel.wuaze.com
+
 ## Bagian 1: Client-side Programming
 
 ### 1.1 Manipulasi DOM dengan JavaScript
